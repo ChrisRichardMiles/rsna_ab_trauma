@@ -1,7 +1,7 @@
 <!-- #region -->
 # Predicting Organ Injuries from Blunt Force Trauma using CT Scans and Machine Learning. 
 
-![image]('Screenshot 2024-01-02 023350.png')
+![image](Screenshot 2024-01-02 023350.png)
 
 ## Problem: we need faster diagnoses of organ injuries
 A recent study has estimated the incident rate for trauma patients with solid organ injuries at 5.4 per 100,000. Of these patients, 12.5% die within 30 days (Larsen, J. W., et al., 2022). It is difficult to determine if a patient with abdominal trauma has solid organ injuries that need immediate surgery. "Computed tomography (CT) has become an indispensable tool in evaluating patients with suspected abdominal injuries due to its ability to provide detailed cross-sectional images of the abdomen" (Errol Colak, et al., 2023). However, the process is time consuming, and requires experts to analyze the scans. 
