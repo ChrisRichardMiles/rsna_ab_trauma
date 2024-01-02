@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rsna_ab_trauma"
+  site-url: "https://ChrisRichardMiles.github.io/rsna_ab_trauma"
+  description: "rsna abdominal trauma kaggle competition code and research project"
+  repo-branch: main
+  repo-url: "https://github.com/ChrisRichardMiles/rsna_ab_trauma"
